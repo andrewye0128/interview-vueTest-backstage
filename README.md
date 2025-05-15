@@ -1,4 +1,4 @@
-# interview-vueTest-backstage   Vue 實作題優化版
+# Vue 後台實作題優化版
 ![image](https://github.com/andrewye0128/interview-vueTest-backstage/blob/main/src/assets/interview-project-img.png?raw=true)
 
 這是一份 Vue 技術實作題的優化版本，使用 Vue 3 搭配 Tailwind CSS 與 Chart.js，實作儀表板樣式的後台頁面。
