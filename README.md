@@ -1,17 +1,17 @@
-# Vue 後台實作題優化版
+# Vue 後台實作題｜優化版
 ![image](https://github.com/andrewye0128/interview-vueTest-backstage/blob/main/src/assets/interview-project-img.png?raw=true)
 
-這是一份 Vue 技術實作題的優化版本，使用 Vue 3 搭配 Tailwind CSS 與 Chart.js，實作儀表板樣式的後台頁面。
+這是面試實作題的第一版，採用 Vue 3 搭配 Bootstrap，製作出具有儀表板風格的後台管理頁面。
 <br/>
 <br/>
 ## 🚀 技術棧（Tech Stack）
-* Vue
+* Vue 3
 * Vite
 * Tailwind CSS
 * vue-chartjs 
 <br/>
 
-## 🛠 開發環境建議 Recommended IDE Setup
+## 🛠 開發環境建議
 **建議使用：**
 * [VSCode](https://code.visualstudio.com/)
 * [Volar 擴充套件](https://marketplace.visualstudio.com/items?itemName=Vue.volar) （請停用 Vetur）
