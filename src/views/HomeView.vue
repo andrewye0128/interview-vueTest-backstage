@@ -9,7 +9,7 @@ import FooterAdmin from "../components/FooterAdmin.vue";
 </script>
 
 <template>
-  <main class=" bg-sky-100/50 px-4 pt-15">
+  <main class=" bg-sky-100/50 px-4 pt-10">
 
     <!-- Cards -->
     <CardAdmin />

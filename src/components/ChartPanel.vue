@@ -2,23 +2,23 @@
   <div class="grid grid-cols-2 gap-4 mb-4">
     <!-- Bar Chart-->
     <div class="bg-white shadow rounded">
-      <h2
-        class="text-center text-white h-[35px] leading-[35px] rounded-t-lg bg-blue-600 font-bold"
+      <p
+        class="text-center text-white h-[25px] leading-[25px] rounded-t-lg bg-blue-600 font-bold"
       >
         場域人員統計（長條圖）
-      </h2>
+    </p>
       <div class="w-[65%] h-[250px] mx-auto">
         <BarChart />
       </div>
     </div>
 
-    <!-- Pie Chart -->
+    <!-- Pie Chart --> 
     <div class="bg-white shadow rounded">
-      <h2
-        class="text-center text-white h-[35px] leading-[35px] rounded-t-lg bg-blue-600 font-bold"
+      <p
+        class="text-center text-white h-[25px] leading-[25px] rounded-t-lg bg-blue-600 font-bold"
       >
         場域人員統計（圓餅圖）
-      </h2>
+    </p>
       <div class="w-[80%] h-[235px] max-w-[700px] mx-auto">
         <PieChart />
       </div>
