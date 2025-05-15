@@ -15,7 +15,6 @@ import HeaderAdmin from "./components/HeaderAdmin.vue";
     <div class="basis-64"></div>
 
     <div class="grow">
-      <!-- header -->
       <HeaderAdmin />
       <RouterView />
     </div>

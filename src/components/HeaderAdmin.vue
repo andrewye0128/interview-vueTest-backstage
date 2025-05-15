@@ -3,7 +3,7 @@
 </script>
 <template>
   <header
-    class="fixed flex top-0 right-0 w-[84.9%] h-[5%] py-5 px-5 justify-between items-center bg-white"
+    class="flex w-full h-[5%] py-5 px-5 justify-between items-center bg-white"
   >
     <i class="fa-solid fa-bars"></i>
     <div class="flex items-center gap-x-[15px]">

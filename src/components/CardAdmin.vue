@@ -46,7 +46,7 @@ const cards = [
       v-for="card in cards"
       :key="card.id"
       :class="card.bgcolor"
-      class="flex justify-between items-center rounded-xl p-4"
+      class="flex justify-between items-center rounded-xl p-3"
     >
       <div class="flex gap-2 justify-center items-center">
         <i :class="card.icon"> </i>

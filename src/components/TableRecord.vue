@@ -59,7 +59,7 @@ const people = [
             class="text-center"
           >
             <td class="flex justify-center items-center p-2">
-              <img :src="person.avatar" class="w-12 h-12" />
+              <img :src="person.avatar" class="size-12" />
             </td>
             <td class="p-2">{{ person.name }}</td>
             <td class="p-2">{{ person.entry }}</td>
